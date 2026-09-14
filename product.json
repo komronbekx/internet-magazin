@@ -314,5 +314,37 @@
       "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
       "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
     ]
+  },
+  "mahsulot27": {
+    "name": "MORFEY",
+    "short": "",
+    "description": "✨ MORFEY — nafislik va joziba bir flakonda!",
+    "price": "139.000 so’m 💰",
+    "image": "./images/rasm1.jpg",
+    "stream": "uOcLaJoO",
+    "offer_id": 169,
+    "features": [
+      "Erkaklar va Ayollar uchun",
+      "Uzoq saqlanuvchi, yoqimli va jozibali hid",
+      "50 ml — premium ko‘rinish va ajoyib tanlov",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
+  },
+  "mahsulot28": {
+    "name": "Soat",
+    "short": "",
+    "description": "✨ Nafis dizayn va zamonaviy uslub — har qanday obrazga mos!",
+    "price": "99.000 so’m 💰",
+    "image": "./images/rasm2.jpg",
+    "stream": "ZjKmPAAc",
+    "offer_id": 175,
+    "features": [
+      "Shaffof remeshok bilan o‘zgacha va premium ko‘rinish",
+      "Kundalik va bayramona kiyimlar uchun ajoyib tanlov",
+      "50 ml — premium ko‘rinish va ajoyib tanlov",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
   }
 }
