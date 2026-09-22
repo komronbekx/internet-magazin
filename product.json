@@ -346,5 +346,85 @@
       "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
       "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
     ]
+  },
+  "mahsulot29": {
+    "name": "TATXUN soat",
+    "short": "",
+    "description": "⌚️ Sport va kundalik hayot uchun zamonaviy TATXUN soat!",
+    "price": "119.000 so’m 💰",
+    "image": "./images/rasm10.jpg",
+    "stream": "tH1atmuw",
+    "offer_id": 194,
+    "features": [
+      "💪 Mustahkam korpus — faol hayot tarzi uchun ajoyib tanlov!",
+      "💦 Suvga chidamli va qulay sport dizayni bilan har kuni yoningizda.",
+      "🔥 Zamonaviy ko‘rinish + qulaylik — sport, ish va sayohat uchun mos.",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
+  },
+  "mahsulot30": {
+    "name": "Richard Mille",
+    "short": "",
+    "description": "⌚️🔥 Premium uslub va zamonaviy dizaynni birlashtirgan Richard Mille uslubidagi soat — 5 xil rangdan o‘zingizga mosini tanlang!",
+    "price": "99.000 so’m 💰",
+    "image": "./images/rasm11.jpg",
+    "stream": "TLGxwzQn",
+    "offer_id": 190,
+    "features": [
+      "💎 Nafis mexanizm, mustahkam korpus va yengil silikon remen — kundalik foydalanish uchun qulay tanlov.",
+      "🖤❤️💙🧡 Sport, ish yoki kundalik obrazingizga mos tushadigan yorqin va zamonaviy dizayn!",
+      "🚚 Tez yetkazib berish mavjud, buyurtma berish uchun shunchaki “+” qoldiring!",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
+  },
+  "mahsulot31": {
+    "name": "Soat",
+    "short": "",
+    "description": "⌚️✨ Zamonaviy va nafis dizayn — har qanday obrazga mos premium ko‘rinish.",
+    "price": "89.000 so’m 💰",
+    "image": "./images/rasm12.jpg",
+    "stream": "uAdI1qlb",
+    "offer_id": 186,
+    "features": [
+      "🖤 Mustahkam korpus va qulay silikon remen kundalik foydalanish uchun juda mos.",
+      "💎 Minimalistik uslub uni ishda ham, maxsus kunlarda ham chiroyli aksessuar qiladi.",
+      "🎁 O‘zingiz uchun ham, yaqin insoningizga sovg‘a sifatida ham ajoyib tanlov.",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
+  },
+  "mahsulot32": {
+    "name": "Torpeda qoplamasi",
+    "short": "",
+    "description": "🚗✨ Torpeda qoplamasi avtomobil salonini quyosh nuri, chang va kirlanishdan himoya qilishga yordam beradi.",
+    "price": "179.000 so’m 💰",
+    "image": "./images/rasm13.jpg",
+    "stream": "eZMJ4rGo",
+    "offer_id": 184,
+    "features": [
+      "🛡️ Sifatli va mustahkam materiali torpedani uzoq vaqt ozoda saqlash uchun qulay.",
+      "🧼 Changni oson tozalash mumkin — salon doimo tartibli va chiroyli ko‘rinishda bo‘ladi.",
+      "👌 Avtomobil ichki ko‘rinishini yanada zamonaviy va ozoda qilish uchun ajoyib tanlov.",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
+  },
+  "mahsulot33": {
+    "name": "Kalit",
+    "short": "",
+    "description": "🔑 Avtomobil kalitingiz uchun zamonaviy va chiroyli qoplama!",
+    "price": "99.000 so’m 💰",
+    "image": "./images/rasm13.jpg",
+    "stream": "oZDaqvDU",
+    "offer_id": 176,
+    "features": [
+      "🛡️ Mustahkam korpus kalitingizni kundalik foydalanishda himoya qiladi.",
+      "🚗 905–909, Equinox, Tracker, Onix, Cobalt, BYD va boshqa modellarga mos variantlar mavjud.",
+      "🖤💛 Qora va sariq ranglardan o‘zingizga mosini tanlang!",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
   }
 }
