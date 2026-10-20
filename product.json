@@ -396,5 +396,20 @@
       "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
       "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
     ]
+  },
+  "mahsulot34": {
+    "name": "Morfey + 5 talik",
+    "short": "🌸 5 xil yoqimli hid — har bir kayfiyat va vaziyatga mos iforlarni tanlang.",
+    "description": "✨ MORFEY atirlari — nafislik va o‘ziga xos hidni sevuvchilar uchun ajoyib tanlov! 🖤",
+    "price": "159.000 so’m 💰",
+    "image": "./images/rasm15.jpg",
+    "stream": "wu9UIj6x",
+    "offer_id": 212,
+    "features": [
+      "🎁 Ixcham va qulay flakonlar — sevimli hidingizni istalgan joyda yoningizda olib yuring.",
+      "MORFEY bilan uslubingizni yanada yorqin namoyon eting! 💎",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
   }
 }
