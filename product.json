@@ -411,5 +411,20 @@
       "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
       "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
     ]
+  },
+  "mahsulot35": {
+    "name": "Mikrofiber",
+    "short": "🚘 Avtomobilingiz doimo yarqirab tursin! ✨ Mikrofiber tozalash to‘plami bilan mashinangizga professional parvarish bering.",
+    "description": "💦 Samarali tozalash — kuzov, oyna va boshqa yuzalardagi chang hamda kirlarni tozalashga yordam beradi.",
+    "price": "99.000 so’m 💰",
+    "image": "./images/rasm16.jpg",
+    "stream": "GKAj6zCK",
+    "offer_id": 155,
+    "features": [
+      "🎁 Bonus! To‘plam bilan birga 2 dona qo‘shimcha cho‘tka ham sovg‘a sifatida!",
+      "🧽 Bir to‘plamda bir nechta vosita — qo‘lqop, salfetkalar, aplikatorlar va disk tozalash cho‘tkasi bir joyda!",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
   }
 }
