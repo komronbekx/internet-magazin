@@ -426,5 +426,20 @@
       "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
       "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
     ]
+  },
+  "mahsulot36": {
+    "name": "Feramon to'plam",
+    "short": "🌹 L’APÉIALO VOGUE -  nafis va o‘ziga xos hidlar jamlanmasi! ❤️",
+    "description": "✨ 6 xil xushbo‘y hid — har bir kayfiyat va uslub uchun ajoyib tanlov.",
+    "price": "89.000 so’m 💰",
+    "image": "./images/rasm17.jpg",
+    "stream": "jdB59fWc",
+    "offer_id": 30,
+    "features": [
+      "💃 O‘zingizga bo‘lgan ishonchni oshiring va har bir lahzada o‘zgacha jozibani his eting!",
+      "👜 Ixcham va qulay flakonlar — sumkangizda olib yurish uchun juda mos.",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
   }
 }
