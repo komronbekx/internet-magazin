@@ -460,5 +460,24 @@
       "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
       "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
     ]
+  },
+      "mahsulot39": {
+    "name": "Manikyur va pedekyur qiladigan tirnoq nabor",
+    "short": "Mukammal manikyur va pedikyur endi oson! ✨ 16 ta funksiyali professional parvarish to‘plami bilan qo‘l va oyoq tirnoqlaringizni har doim ideal holatda saqlang.",
+    "description": "✨ 6 xil xushbo‘y hid — har bir kayfiyat va uslub uchun ajoyib tanlov.",
+    "price": "79.000 so’m 💰",
+    "image": "./images/rasm18.jpg",
+    "stream": "jDyERds1",
+    "offer_id": 131,
+    "features": [
+      "✅ Tirnoq kesgichlar (3 xil o‘lcham)",
+      "✅ Qaychi va pinset",
+      "✅ Quloq va yuz parvarishi uchun asboblar",
+      "🎁 Uyda ham, safarda ham foydalanish uchun qulay.",
+      "🎯 Erkaklar va ayollar uchun mos.",
+      "💎 Sifatli zanglamaydigan po‘latdan tayyorlangan.",
+      "✅ To'lovni mahsulotni qo'lingizga olganda qilasiz",
+      "🚚 O‘zbekiston bo‘ylab yetkazib beriladi"
+    ]
   }
 }
